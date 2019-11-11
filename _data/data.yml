@@ -55,6 +55,27 @@ education:
 
 
 experiences:
+
+
+
+    - role: Software Engineer Intern
+      time: Summer of 2019
+      company: Youth Development Organization, Lawrence MA
+      details: |
+         Over the summer I worked alongside a software engineer to develop
+         a web application to manage student programs, family records, surveys,
+         and other information requested by the organization. I was tasked to 
+         write scalable code in Python, Javascript, and Ruby, while code reviewing 
+         and writing tests. These scripts help sort over 600 student's information 
+         to push into our new database. I also built features that used rich analytics
+         to measure student success and track progress. I Assisted the SCRUM master and 
+         collaborated with stakeholders and designers to deliver our product by
+         the required deadline. The finished product can be found [here](https://llama.ydolawrence.org/login).
+         *Please note that the website is not accessable unless logged in by an administrator. 
+
+
+
+
     - role: Co-Director
       time: 2016 - 2018
       company: Youth Development Organization, Lawrence MA
@@ -71,23 +92,6 @@ experiences:
             of the Organization I would have to constantly talk to parents and
             hold accountablity for all my staff and students. You can read more about my 
             journey with YDO [here](https://www.ydolawrence.org/leadership-staff/171).
-
-            
-      
-    - role: Software Engineer Intern
-      time: Summer of 2019
-      company: Youth Development Organization, Lawrence MA
-      details: |
-         Over the summer I worked alongside a software engineer to develop
-         a web application to manage student programs, family records, surveys,
-         and other information requested by the organization. I was tasked to 
-         write scalable code in Python, Javascript, and Ruby, while code reviewing 
-         and writing tests. These scripts help sort over 600 student's information 
-         to push into our new database. I also built features that used rich analytics
-         to measure student success and track progress. I Assisted the SCRUM master and 
-         collaborated with stakeholders and designers to deliver our product by
-         the required deadline. The finished product can be found [here](https://llama.ydolawrence.org/login).
-         *Please note that the website is not accessable unless logged in by an administrator. 
          
 
 
