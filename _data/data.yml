@@ -69,24 +69,27 @@ experiences:
             all the staff had done their chores for the day, to producing a unique 
             schedule for every student that was a part of the program. As a director 
             of the Organization I would have to constantly talk to parents and
-            hold accountablity for all my staff and students
-            
-            You can see more of YDO [here](ydolawrence.org/leadership-staff/171)
+            hold accountablity for all my staff and students. You can read more about my 
+            journey with YDO [here](ydolawrence.org/leadership-staff/171).
 
             
       
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer Intern
+      time: Summer of 2019
+      company: Youth Development Organization, Lawrence MA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+         Over the summer I worked alongside a software engineer to develop
+         a web application to manage student programs, family records, surveys,
+         and other information requested by the organization. I was tasked to 
+         write scalable code in Python, Javascript, and Ruby, while code reviewing 
+         and writing tests. These scripts help sort over 600 student's information 
+         to push into our new database. I also built features that used rich analytics
+         to measure student success and track progress. I Assisted the SCRUM master and 
+         collaborated with stakeholders and designers to deliver our product by
+         the required deadline. The finished product can be found [here](https://llama.ydolawrence.org/login).
+         
 
-          - Bullet point
-          - Bullet point
+
 
     - role: UI Developer
       time: 2012 - 2014
