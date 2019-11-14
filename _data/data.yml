@@ -34,14 +34,16 @@ sidebar:
       - idiom: Spanish
         level: Conversational
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
+career-profile:
+    title: About Me
+    summary: |
+     I come from a Lebanese household that resides in Lawrence Massachusetts. 
+     I have been coding my whole life and once I received my Posse Foundation 
+     Full-Tuition Leadership Scholarship, I immediately declared for a Bachelor 
+     of Science in Computer Science. Since then I have taken rigorous courses involving
+     building data structures, understanding the mathematical foundations of computer 
+     science and working within computer systems. I hope to graduate and have a career 
+     in a company that I can utilize my skillset to not only better myself, but better those around me. 
 
 #       Second paragraph if required.
 
@@ -71,7 +73,7 @@ experiences:
          to measure student success and track progress. I Assisted the SCRUM master and 
          collaborated with stakeholders and designers to deliver our product by
          the required deadline. The finished product can be found [here](https://llama.ydolawrence.org/login).
-         *Please note that the website is not accessable unless logged in by an administrator. 
+         *Please note that the website is not accessible unless logged in by an administrator. 
 
 
 
@@ -87,10 +89,10 @@ experiences:
             hire 50 staff members annually to instruct a class that I make sure
             is carefully planned out and strategized to meet the children’s needs.
             I had a hand in all aspects of the summer, whether it was ensuring that
-            all the staff had done their chores for the day, to producing a unique 
+            all the staff had done their chores for the day, to produce a unique 
             schedule for every student that was a part of the program. As a director 
-            of the Organization I would have to constantly talk to parents and
-            hold accountablity for all my staff and students. You can read more about my 
+            of the Organization, I would have to constantly talk to parents and
+            hold accountability for all my staff and students. You can read more about my 
             journey with YDO [here](https://www.ydolawrence.org/leadership-staff/171).
          
 
@@ -99,11 +101,11 @@ experiences:
     - role: Grill Chef
       time: 2016 - Present
       company: Chipotle Mexican Grill
-      details: |
+      details: 
           Throughout the years I have been at Chipotle I have had to accurately processed
-          an average of 1000 transactions, amounting to about $8000 per day. As the chef I 
+          an average of 1000 transactions, amounting to about $8000 per day. As the chef, I 
           have to manage the grill and that includes preparing food to quality standards for
-          an average of 800 customers daily. When I am not cooking I would providing excellent 
+          an average of 800 customers daily. When I am not cooking I would provide excellent 
           customer service by speaking to customers, using their feedback to guarantee their
           next visit is met with satisfaction.
 
