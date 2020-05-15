@@ -60,6 +60,26 @@ experiences:
 
 
 
+
+- role: Software Engineer Intern
+      time: January to May of 2020
+      company: Denison University, Granville OH
+      details: |
+         Over the course of the semester, I, along with four other students,
+         were given the task of autominizing and optimizing Denison University's
+         course scheduling system by the school's registar. This task usually takes
+         up to a week, but with the right algoithm, it can be done in a second with some software.
+         The registar wanted a way to optimize the usage of classes with all the buildings on campus.
+         Our group utilized the SCRUM technique and put together several sprints, 
+         in which we curated to our clients with an agile process in order to make
+         the changes from their feedback possible. After several weeks, which consisited 
+         of data gathering, data formattinmg, algorithm analysis and redesigning the GUI to meet
+         our client's standards. The finished product is currently used by Denison
+         University to schedule all the courses in all the academic buildings
+
+
+
+
     - role: Software Engineer Intern
       time: Summer of 2019
       company: Youth Development Organization, Lawrence MA
