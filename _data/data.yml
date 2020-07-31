@@ -59,6 +59,20 @@ education:
 experiences:
 
 
+    - role: Software Engineer Intern
+      time: Summer 2020
+      company: Fidelity Investments, Boston MA
+      details: |
+         Over the summer, I interned at Fidelity Investments and was a part of their AM Tech
+         Team. While there I worked on creating a website to display data from their messaging
+         service to a heatmap. The heatmap contains each sector of the team and is based on the 
+         interactions they have in the chats. This was in order to enable the buisness users to
+         make trading decisons based on trending sectors. This took 9 weeks to develop, and in 
+         that time I learned Angular as well. I worked with other engineers and we followed the
+         agile SCRUM methodology. 
+
+
+
 
 
     - role: Software Engineer Intern
@@ -111,8 +125,7 @@ experiences:
             all the staff had done their chores for the day, to produce a unique 
             schedule for every student that was a part of the program. As a director 
             of the Organization, I would have to constantly talk to parents and
-            hold accountability for all my staff and students. You can read more about my 
-            journey with YDO [here](https://www.ydolawrence.org/leadership-staff/171).
+            hold accountability for all my staff and students.
          
 
 
@@ -156,11 +169,11 @@ skills:
       - name: Python & C++
         level: 80%
 
-      - name: Javascript & Java
-        level: 65%
-
-      - name: HTML & CSS
+      - name: Angular, HTML, CSS, & Javascript
         level: 70%
+
+      - name: Java
+        level: 65%
 
       - name: Ruby on Rails
         level: 50%
